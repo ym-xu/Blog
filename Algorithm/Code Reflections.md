@@ -176,7 +176,9 @@ NeetCode | #Stack | #Hard | [84. Largest Rectangle in Histogram](https://leetcod
 36 | #Greedy | #Medium |     [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)   |  [[435. Non-overlapping Intervals|435. Non-overlapping Intervals]]        |
 36 | #Greedy | #Medium |     [763. Partition Labels](https://leetcode.com/problems/partition-labels)   |  [[763. Partition Labels|763. Partition Labels]]        |
 36 | #Greedy | #Medium |     [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)   |   [[56. Merge Intervals|56. Merge Intervals]]       |
-NeetCode | #Greedy | #Medium | [57. Insert Interval](https://leetcode.com/problems/insert-interval)| |
+NeetCode | #Greedy | #Medium | [57. Insert Interval](https://leetcode.com/problems/insert-interval)| [[57. Insert Interval|57. Insert Interval]]|
+NeetCode | #Greedy | #Easy  |[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | [[252. Meeting Rooms|252. Meeting Rooms]]|
+NeetCode | #Greedy | #Easy  |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)| |
 37 | #Greedy | #Medium |     [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits)   |    [[738. Monotone Increasing Digits|738. Monotone Increasing Digits]]      |
 37 | #Greedy | #Hard |     [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)   |        [[968. Binary Tree Cameras|968. Binary Tree Cameras]]  |
 NeetCode | #Greedy | #Medium |[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | |
