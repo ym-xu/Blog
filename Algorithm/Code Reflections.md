@@ -14,6 +14,7 @@ tags:
   - String
   - SlidingWindow
   - Stack
+  - Heap
   - BinaryTree
   - BackTracking
   - Greedy
@@ -103,6 +104,13 @@ NeetCode | #Stack | #Medium | [22. Generate Parentheses](https://leetcode.com/pr
 NeetCode | #Stack | #Medium | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [[739. Daily Temperatures|739. Daily Temperatures]]|
 NeetCode | #Stack | #Medium | [853. Car Fleet](https://leetcode.com/problems/car-fleet/)| |
 NeetCode | #Stack | #Hard | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [[84. Largest Rectangle in Histogram|84. Largest Rectangle in Histogram]]|
+NeetCode | #Heap | #Easy | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)| [[703. Kth Largest Element in a Stream|703. Kth Largest Element in a Stream]]|
+NeetCode | #Heap | #Easy | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight)| [[1046. Last Stone Weight|1046. Last Stone Weight]]|
+NeetCode | #Heap | #Medium  | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)| [[973. K Closest Points to Origin|973. K Closest Points to Origin]]|
+NeetCode | #Heap | #Medium  | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)| [[215. Kth Largest Element in an Array|215. Kth Largest Element in an Array]]|
+NeetCode | #Heap | #Medium  | [612. Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane)| [[621. Task Scheduler|621. Task Scheduler]]|
+NeetCode | #Heap | #Medium  | | |
+NeetCode | #Heap | #Hard  | | |
 14             | #BinaryTree   | #Easy         | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)                                         |             |
 14             | #BinaryTree   | #Easy         | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)                                       |             |
 14             | #BinaryTree   | #Easy         | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                                            |             |
@@ -178,7 +186,7 @@ NeetCode | #Stack | #Hard | [84. Largest Rectangle in Histogram](https://leetcod
 36 | #Greedy | #Medium |     [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)   |   [[56. Merge Intervals|56. Merge Intervals]]       |
 NeetCode | #Greedy | #Medium | [57. Insert Interval](https://leetcode.com/problems/insert-interval)| [[57. Insert Interval|57. Insert Interval]]|
 NeetCode | #Greedy | #Easy  |[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | [[252. Meeting Rooms|252. Meeting Rooms]]|
-NeetCode | #Greedy | #Easy  |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)| |
+NeetCode | #Greedy | #Easy  |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)| [[253. Meeting Rooms II|253. Meeting Rooms II]]|
 37 | #Greedy | #Medium |     [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits)   |    [[738. Monotone Increasing Digits|738. Monotone Increasing Digits]]      |
 37 | #Greedy | #Hard |     [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)   |        [[968. Binary Tree Cameras|968. Binary Tree Cameras]]  |
 NeetCode | #Greedy | #Medium |[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | |
@@ -225,6 +233,7 @@ NeetCode | #Greedy | #Medium | [678. Valid Parenthesis String](https://leetcode.
 56 | #DP| #Medium | [72. Edit Distance](https://leetcode.com/problems/edit-distance)| [[72. Edit Distance|72. Edit Distance]]|
 57 | #DP| #Medium | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)| [[647. Palindromic Substrings|647. Palindromic Substrings]]|
 57 | #DP| #Medium | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)| [[516. Longest Palindromic Subsequence|516. Longest Palindromic Subsequence]]|
+Booking | #DP | #Medium | [221. Maximal Square](https://leetcode.com/problems/maximal-square)| [[221. Maximal Square|221. Maximal Square]]|
 58 | #Monotonic_Stack| #Medium | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures)| [[739. Daily Temperatures|739. Daily Temperatures]]|
 58 | #Monotonic_Stack | #Medium | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)| [[496. Next Greater Element I|496. Next Greater Element I]]|
 59 | #Monotonic_Stack | #Medium | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)| [[503. Next Greater Element II|503. Next Greater Element II]]|
