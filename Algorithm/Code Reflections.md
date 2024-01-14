@@ -6,8 +6,8 @@ tags:
   - Array
   - Easy
   - Medium
-  - BinarySearch
   - Hard
+  - BinarySearch
   - LinkedList
   - TwoPointer
   - Hash
@@ -31,6 +31,7 @@ Day  | Category | Difficulty | Problem Name | Note |
 2              | #Array        | #Medium       | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)                                                   | [[209. Minimum Size Subarray Sum|209. Minimum Size Subarray Sum]]            |
 2              | #Array        | #Medium       | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)                                                                      | [[59. Spiral Matrix II|59. Spiral Matrix II]]            |
 AlgoExpert | #Array | #Medium | [[AE - Spiral Traverse|AE - Spiral Traverse]]|[[AE - Spiral Traverse|AE - Spiral Traverse]]
+AlgoExpert | #Array | #Hard | |
 NeetCode | #Array | #Easy |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | |
 NeetCode | #Array | #Easy |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | |
 NeetCode | #Array | #Easy |[1. Two Sum](https://leetcode.com/problems/two-sum)  | [[1. Two Sum|1. Two Sum]]|
@@ -110,7 +111,7 @@ NeetCode | #Heap | #Medium  | [973. K Closest Points to Origin](https://leetcod
 NeetCode | #Heap | #Medium  | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)| [[215. Kth Largest Element in an Array|215. Kth Largest Element in an Array]]|
 NeetCode | #Heap | #Medium  | [612. Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane)| [[621. Task Scheduler|621. Task Scheduler]]|
 NeetCode | #Heap | #Medium  | | |
-NeetCode | #Heap | #Hard  | | |
+NeetCode | #Heap | #Hard  | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)| [[295. Find Median from Data Stream|295. Find Median from Data Stream]]|
 14             | #BinaryTree   | #Easy         | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)                                         |             |
 14             | #BinaryTree   | #Easy         | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)                                       |             |
 14             | #BinaryTree   | #Easy         | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                                            |             |
