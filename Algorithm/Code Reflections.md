@@ -31,7 +31,8 @@ Day  | Category | Difficulty | Problem Name | Note |
 2              | #Array        | #Medium       | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)                                                   | [[209. Minimum Size Subarray Sum|209. Minimum Size Subarray Sum]]            |
 2              | #Array        | #Medium       | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)                                                                      | [[59. Spiral Matrix II|59. Spiral Matrix II]]            |
 AlgoExpert | #Array | #Medium | [[AE - Spiral Traverse|AE - Spiral Traverse]]|[[AE - Spiral Traverse|AE - Spiral Traverse]]
-AlgoExpert | #Array | #Hard | |
+AlgoExpert | #Array | #Hard | [[AE - Apartment Hunting|AE - Apartment Hunting]]| [[AE - Apartment Hunting|AE - Apartment Hunting]]
+AlgoExpert | #Array | #Hard | [[AE - Calendar Matching|AE - Calendar Matching]] | [[AE - Calendar Matching|AE - Calendar Matching]]
 NeetCode | #Array | #Easy |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | |
 NeetCode | #Array | #Easy |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | |
 NeetCode | #Array | #Easy |[1. Two Sum](https://leetcode.com/problems/two-sum)  | [[1. Two Sum|1. Two Sum]]|
